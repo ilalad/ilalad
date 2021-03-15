@@ -1,5 +1,4 @@
-### Top-notch FULL Stack Developer 👋</br>
-</br>
+### Top-notch FULL Stack Developer 👋
 Motivated web and mobile developer, specializing in ReactJs, React Native, Node, Express, SQL Database Management, API integration, authentication, payment forums, with an eye for design and a strong familiarity with the necessary functions to create a great platform for your next project. </br>I have experience creating full-stack, fully responsive, web applications, and mobile applications.</br> Great communication skills, to be able to translate your ideas into your dream project.
 </br>
 </br>
