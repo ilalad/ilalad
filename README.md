@@ -16,10 +16,4 @@ List of my primary skills: </br>
 🔸 Highchart.js, chart.js, D3.js</br>
 🔸 Git, Jira, Asana, Trello, Docker, Vagrant</br>
 </br>
-I welcome the opportunity to speak with you about how my skills can contribue to the continues success of your organization.</br>
-Please call me at (832)474-2375 to schedule an interview.</br>
-Thank you in advance for your time and consideration.</br>
-I look forward to hearing from you!</br>
-</br>
-Sincerely,</br>
-Harpreet Aulakh
+
