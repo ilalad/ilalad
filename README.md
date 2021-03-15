@@ -1,16 +1,25 @@
-### Hi there 👋
-
-<!--
-**tuhituhi18/tuhituhi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Top-notch FULL Stack Developer 👋</br>
+</br>
+Motivated web and mobile developer, specializing in ReactJs, React Native, Node, Express, SQL Database Management, API integration, authentication, payment forums, with an eye for design and a strong familiarity with the necessary functions to create a great platform for your next project. </br>I have experience creating full-stack, fully responsive, web applications, and mobile applications.</br> Great communication skills, to be able to translate your ideas into your dream project.
+</br>
+</br>
+List of my primary skills: </br>
+🔸 React.js, Redux, Flux, Mobx, Redux-Saga, Redux-thunk</br>
+🔸 React-Bootstrap, Material-UI, Semantic-UI</br>
+🔸 Angular, Angular-material, Vue, Vuex, Vue-material</br>
+🔸 ES6/7, TypeScript, Javascript, HTML5, CSS3, SCSS, Bootstrap, SASS/LESS, Jade</br>
+🔸 Node.js, Express.js, Sails.js, Keystone.js, Socket.io</br>
+🔸 Python, Django, Flask</br>
+🔸 MongoDB, PostgreSQL, MySQL, Neo4J</br>
+🔸 Firebase, GraphQL, Apollo</br>
+🔸 AWS (EC2, Lambda, DynamoDB, S3), Heroku, Google Cloud Platform</br>
+🔸 Highchart.js, chart.js, D3.js</br>
+🔸 Git, Jira, Asana, Trello, Docker, Vagrant</br>
+</br>
+I welcome the opportunity to speak with you about how my skills can contribue to the continues success of your organization.</br>
+Please call me at (832)474-2375 to schedule an interview.</br>
+Thank you in advance for your time and consideration.</br>
+I look forward to hearing from you!</br>
+</br>
+Sincerely,</br>
+Harpreet Aulakh
