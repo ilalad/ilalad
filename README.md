@@ -17,3 +17,9 @@ List of my primary skills: </br>
 🔸 Git, Jira, Asana, Trello, Docker, Vagrant</br>
 </br>
 
+I welcome the opportunity to speak with you about how my skills can contribue to the continues success of your organization.</br>
+Please email me at h.aulakh2020@gmail.com to schedule an interview.</br>
+I look forward to hearing from you!</br>
+</br>
+Sincerely,</br>
+Harpreet Aulakh
