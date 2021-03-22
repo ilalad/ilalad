@@ -23,3 +23,6 @@ I look forward to hearing from you!</br>
 </br>
 Sincerely,</br>
 Harpreet Aulakh
+
+![Harpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhituhi18&show_icons=true&theme=radical)
+
