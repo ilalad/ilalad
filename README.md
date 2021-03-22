@@ -28,3 +28,4 @@ Harpreet Aulakh
 
 [![Harpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhituhi18)](https://github.com/tuhituhi18/github-readme-stats)
 
+![Harpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhituhi18&show_icons=true)
