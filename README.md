@@ -18,10 +18,10 @@ List of my primary skills: </br>
 </br>
 
 I welcome the opportunity to speak with you about how my skills can contribue to the continues success of your organization.</br>
-Please email me at h.aulakh2020@gmail.com to schedule an interview.</br>
+Please email me at ladila526@gmail.com to schedule an interview.</br>
 I look forward to hearing from you!</br>
 </br>
 Sincerely,</br>
 Harpreet Aulakh
 
-![Harpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhituhi18&show_icons=true&theme=radical)
+![Ila's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilalad&show_icons=true&theme=radical)
