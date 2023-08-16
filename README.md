@@ -22,6 +22,6 @@ Please email me at ladila526@gmail.com to schedule an interview.</br>
 I look forward to hearing from you!</br>
 </br>
 Sincerely,</br>
-Harpreet Aulakh
+Ila Lad
 
 ![Ila's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilalad&show_icons=true&theme=radical)
