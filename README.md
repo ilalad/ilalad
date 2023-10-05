@@ -1,27 +1,30 @@
-### Top-notch Full Stack Web Developer 👋
+### Full Stack Shopify Developer 👋
     | Houston, Texas | Email: ladila526@gmail.com |
-Motivated web and mobile developer, specializing in ReactJs, React Native, Node, Express, SQL Database Management, API integration, authentication, payment forums, with an eye for design and a strong familiarity with the necessary functions to create a great platform for your next project. </br>I have experience creating full-stack, fully responsive, web applications, and mobile applications.</br> Great communication skills, to be able to translate your ideas into your dream project.
-</br>
-</br>
-List of my primary skills: </br>
-🔸 React.js, Redux, Flux, Mobx, Redux-Saga, Redux-thunk</br>
-🔸 React-Bootstrap, Material-UI, Semantic-UI</br>
-🔸 Angular, Angular-material, Vue, Vuex, Vue-material</br>
-🔸 ES6/7, TypeScript, Javascript, HTML5, CSS3, SCSS, Bootstrap, SASS/LESS, Jade</br>
-🔸 Node.js, Express.js, Sails.js, Keystone.js, Socket.io</br>
-🔸 Python, Django, Flask</br>
-🔸 MongoDB, PostgreSQL, MySQL, Neo4J</br>
-🔸 Firebase, GraphQL, Apollo</br>
-🔸 AWS (EC2, Lambda, DynamoDB, S3), Heroku, Google Cloud Platform</br>
-🔸 Highchart.js, chart.js, D3.js</br>
-🔸 Git, Jira, Asana, Trello, Docker, Vagrant</br>
-</br>
+An experienced Shopify Developer with experience creating e-commerce stores using HTML5,CSS3, and Javascript, template design using Shopify and Shopify Hydrogen.
 
-I welcome the opportunity to speak with you about how my skills can contribue to the continues success of your organization.</br>
-Please email me at ladila526@gmail.com to schedule an interview.</br>
-I look forward to hearing from you!</br>
-</br>
-Sincerely,</br>
-Ila Lad
+I have over 8 years of experience in web development and work exclusively on Shopify and Hydrogen platforms.
+
+-Experience with configuration, customization, and development of e-commerce platforms.
+-Experience with Shopify Hydrogen React Development
+-Experience with Javascript frameworks(React, Gatsby), Javascript, and AJAX
+-Proficient with the latest programming languages, web development tools, platforms, and other utility applications.
+-Ability to work on large-scale eCommerce projects.
+-In-depth knowledge of security protocols, secure payment gateways, and other safety components applicable to e-trading websites.
+-Strong knowledge of Content Management Systems(WordPress), MySQL, and MongoDB.
+-Excellent time management, leadership and communication skills.
+
+Shopify Expertise
+-Shopify theme development (Liquid, Headless, Hydrogen-React.js, Next.js, Gatsby)
+-Shopify Plugs (Flow, Scripts, Wholesale, Launchpad, Avatax)
+-Shopify Apps (Recharge, Rebuy, Klaviyo, Shogun, Yotpo, Re Amze, Shogun, RoyaltyLion, Attentive)
+-Shopify Migration and performance optimization
+-Various conversion tracking (GA4, FB, Twitter, Pinterest, etc)
+
+Other Skills
+-CRMs(Klaviyo, Mailchimp, Salesforce, Zoho, Active Campaign)
+-Headless CMS (Strapi, Ghost, Sanity, Plasmic, Statamic, Contentful)
+-Zapier, Zendesk, Intercom
+-AWS lightsail, EC2, S3, GCP, Vercel, Firebase
+
 
 ![Ila's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilalad&show_icons=true&theme=radical)
